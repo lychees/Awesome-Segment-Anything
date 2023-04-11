@@ -3,8 +3,9 @@
 - [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 
 ## Grounded Segment Anything 
-- 套一层目标检测器，实现根据文本输入检测和分割任意物体。
-- 结合 Stable Diffusion 实现 可控的图像编辑。
+
+套一层目标检测器，实现根据文本输入检测和分割任意物体。
+结合 Stable Diffusion 实现 可控的图像编辑。
 
 - [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 - [Grounded-Segment-Anything-Colab](https://github.com/camenduru/grounded-segment-anything-colab)
