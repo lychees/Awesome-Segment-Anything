@@ -4,19 +4,26 @@
 
 ## Grounded Segment Anything 
 
-套一层目标检测器，实现根据文本输入检测和分割任意物体。
-结合 Stable Diffusion 实现 可控的图像编辑。
+套一层目标检测模型，实现根据文本输入检测和分割任意物体，也可以结合 Stable Diffusion 实现可控图像编辑。
 
 - [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 - [Grounded-Segment-Anything-Colab](https://github.com/camenduru/grounded-segment-anything-colab)
+- [https://twitter.com/_akhaliq/status/1645115958594351106](https://twitter.com/_akhaliq/status/1645115958594351106)
 
 ## Stable Diffusion
 
 - [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything)
 - [StableSAM: Stable Diffusion + Segment Anything Model](https://huggingface.co/spaces/abhishek/StableSAM)
 
+## Segment Anything and Name It
+
+- Segment Anything
+- Object and Part Prompt Segment Anything
+- Support ChatGPT as Controller
+
+- [https://twitter.com/ShoufaChen/status/1645592538810830848](https://twitter.com/ShoufaChen/status/1645592538810830848)
+
+
 ## 其它
 
-- [https://twitter.com/_akhaliq/status/1645115958594351106](https://twitter.com/_akhaliq/status/1645115958594351106)
-- [https://twitter.com/ShoufaChen/status/1645592538810830848](https://twitter.com/ShoufaChen/status/1645592538810830848)
 - [https://twitter.com/RainbowYuhui/status/1645278756972691458](https://twitter.com/RainbowYuhui/status/1645278756972691458)
