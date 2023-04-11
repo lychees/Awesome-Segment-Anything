@@ -26,6 +26,9 @@
 - [https://twitter.com/ShoufaChen/status/1645592538810830848](https://twitter.com/ShoufaChen/status/1645592538810830848)
 
 
-## 其它
+## Prompt Segment Anything
 
+Support evaluating the COCO instance segmentation performance w/ existing SOTA object detectors. More attempts at designing prompts will be added soon. 
+
+- [https://github.com/RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything)
 - [https://twitter.com/RainbowYuhui/status/1645278756972691458](https://twitter.com/RainbowYuhui/status/1645278756972691458)
