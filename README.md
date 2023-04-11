@@ -32,8 +32,8 @@ Support evaluating the COCO instance segmentation performance w/ existing SOTA o
 
 
 ## 结合 Stable Diffusion
-
 - [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything)
+- [PBRemTools](https://github.com/mattyamonaca/PBRemTools)
 - [StableSAM: Stable Diffusion + Segment Anything Model](https://huggingface.co/spaces/abhishek/StableSAM)
 
 ## 结合 GPT
