@@ -39,5 +39,6 @@ Support evaluating the COCO instance segmentation performance w/ existing SOTA o
 ## 结合 GPT
 
 - [Arxiv, SegGPT: Segmenting Everything In Context](https://arxiv.org/abs/2304.03284)
-- [Github](https://github.com/baaivision/Painter)
-- [HuggingFace](https://huggingface.co/spaces/BAAI/SegGPT)
+- [Github, SegGPT](https://github.com/baaivision/Painter)
+- [HuggingFace, SegGPT](https://huggingface.co/spaces/BAAI/SegGPT)
+- [Caption-Anything](https://twitter.com/_akhaliq/status/1645793222499897348)
