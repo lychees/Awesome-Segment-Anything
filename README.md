@@ -42,3 +42,10 @@ Support evaluating the COCO instance segmentation performance w/ existing SOTA o
 - [Github, SegGPT](https://github.com/baaivision/Painter)
 - [HuggingFace, SegGPT](https://huggingface.co/spaces/BAAI/SegGPT)
 - [Caption-Anything](https://twitter.com/_akhaliq/status/1645793222499897348)
+
+## 浏览器插件
+
+Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
+
+- [https://github.com/kevmo314/magic-copy](https://github.com/kevmo314/magic-copy)
+
