@@ -13,6 +13,10 @@
 - [Grounded-Segment-Anything-Colab](https://github.com/camenduru/grounded-segment-anything-colab)
 - [https://twitter.com/_akhaliq/status/1645115958594351106](https://twitter.com/_akhaliq/status/1645115958594351106)
 
+。
+
+- [Grounded Segment Anything：From Objects to Parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
+
 ### Segment Anything and Name It
 
 - Segment Anything
