@@ -49,3 +49,7 @@ Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extr
 
 - [https://github.com/kevmo314/magic-copy](https://github.com/kevmo314/magic-copy)
 
+## 其它
+
+- [Segment Everything Everywhere All at Once](https://arxiv.org/abs/2304.06718)
+- [https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
