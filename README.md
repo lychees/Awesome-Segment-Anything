@@ -14,6 +14,7 @@
 - [https://twitter.com/_akhaliq/status/1645115958594351106](https://twitter.com/_akhaliq/status/1645115958594351106)
 - [Grounded Segment Anything：From Objects to Parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
+- [Faster Segment Anything (MobileSAM)](https://huggingface.co/spaces/dhkim2810/MobileSAM)
 
 ### Segment Anything and Name It
 
