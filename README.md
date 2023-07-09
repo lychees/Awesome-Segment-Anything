@@ -15,6 +15,7 @@
 - [Grounded Segment Anything：From Objects to Parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 - [Faster Segment Anything (MobileSAM)](https://huggingface.co/spaces/dhkim2810/MobileSAM)
+- [Meet SAM-PT: A New AI Method Extending Segment Anything Model’s (SAM) Capability to Tracking and Segmenting Anything in Dynamic Videos](https://twitter.com/CVCND/status/1677725352620113920)
 
 ### Segment Anything and Name It
 
